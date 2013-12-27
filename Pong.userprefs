@@ -1,9 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ParticlesSetup.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerControls.js">
     <Files>
-      <File FileName="Assets\Scripts\GameSetup.js" Line="28" Column="91" />
-      <File FileName="Assets\Scripts\ParticlesSetup.js" Line="5" Column="43" />
+      <File FileName="Assets\Scripts\BallController.cs" Line="7" Column="8" />
+      <File FileName="Assets\Scripts\PlayerControls.js" Line="22" Column="2" />
+      <File FileName="Assets\Scripts\BallController.cs" Line="51" Column="1" />
+      <File FileName="Assets\Scripts\ParticlesSetup.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameSetup.js" Line="35" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

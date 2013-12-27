@@ -13,6 +13,7 @@ var rightWall : BoxCollider2D;
 var Player01 : Transform;
 var Player02 : Transform;
 
+
 function Start ()
 {   //Only set this to Update if you know the screen size can change during a playsession.
 	//Move each wall to its edge location:
